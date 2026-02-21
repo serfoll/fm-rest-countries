@@ -27,6 +27,10 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <header>
+          <h1>Where in the world?</h1>
+          <button type="button">Toggle Dark Mode</button>
+        </header>
         {children}
       </body>
     </html>
