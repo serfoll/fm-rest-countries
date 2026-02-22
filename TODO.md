@@ -16,7 +16,7 @@
 ## Tasks List
 
 - [ ] Fetch countries from the [REST Countries API](https://restcountries.com/)
-- [ ] Header: Title
+- [x] Header: Title
 - [ ] Header: Dark mode switcher
 - [ ] Home: Display list of countries as cards in a grid
 - [ ] Home: Link each country to resp page
